@@ -1,0 +1,14 @@
+.bodyapp__img{
+    background-image: url("../../public/construction.jpg");
+    background-size: cover;
+    height: 500px;
+}
+
+.message__div{
+    color: white;
+    margin: auto;
+    padding: 300px;
+    text-align: center;
+    align-items: center;
+
+}
