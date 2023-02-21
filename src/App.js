@@ -1,5 +1,6 @@
 import './App.css';
-import BodyApp from './components/BodyApp';
+import Carrousel from './components/carrousel';
+// import BodyApp from './components/BodyApp';
 import Footer from './components/Footer';
 import Nav from './components/Nav';
 
@@ -7,7 +8,8 @@ function App() {
   return (
     <div className='container'>
       <Nav />
-      <BodyApp />
+      < Carrousel/>
+      {/* <BodyApp /> pagina en construccion */}
       <Footer />
     </div>
 
