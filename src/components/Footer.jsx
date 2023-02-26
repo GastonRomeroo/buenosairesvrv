@@ -38,11 +38,6 @@ const Footer = () => {
                         <p> developers www.codecraze.com </p>
                     </div>
                 </section>
-                {/* <section>
-            <div className="text-center p-4" style="background-color: rgba(0, 0, 0, 0.05);">
-                © todos los derechos reservados a buenosairesvrv
-            </div>
-    </section> */}
             </div>
         </footer>
     )

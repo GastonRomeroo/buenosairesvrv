@@ -1,618 +1,577 @@
-{
-    "residencial": [
-        {
-            "id": "1",
-            "titulo": "Daikin Kirara Sense",
-            "slogan": "La evolución del confort interior, con sensor inteligente. Tecnología japonesa de máxima eficiencia para tu hogar.",
-            "detalle": [
-                {
-                    "name": "Ofrece con modelos con capacidad de 2.500, 3.500, 5.000, y 6.000."
-                },
-                {
-                    "name": "Sensor de movimiento para orientar el flujo del aire y anticipar la carga térmica."
-                },
-                {
-                    "name": "Alcanzan rápidamente la temperatura deseada, tanto en frío como en calor."
-                },
-                {
-                    "name": "Control automático del flujo de aire. Selección manual de 5 velocidades."
-                },
-                {
-                    "name": "Con el modo ECO y el sensor inteligente permite ahorrar aún más energía que el Mini Split Inverter estándar."
-                },
-                {
-                    "name": "Utiliza refrigerante R-410a ya que no genera impacto en el medio ambiente."
-                },
-                {
-                    "img": "/img/Residencial/id1.png"
-                },
-                {
-                    "catalogo": "https://www.daikin-argentina.com/wp-content/uploads/2021/03/daikin-mini-sense.pdf"
-                }
-            ]
-        },
-        {
-            "id": "2",
-            "titulo": "Mini Split Inverter Daikin",
-            "slogan": "Diseñado para climatizar todos los ambientes del hogar con el máximo nivel de eficiencia energética.",
-            "detalle": [
-                {
-                    "name": "Cuenta con modelos con capacidad de 2.500, 3.500, 5.500 y 6.300w."
-                },
-                {
-                    "name": "Sensor de movimiento para orientar el flujo del aire y anticipar la carga térmica."
-                },
-                {
-                    "name": "Alcanzan rápidamente la temperatura deseada, tanto en frío como en calor."
-                },
-                {
-                    "name": "Control automático del flujo de aire. Selección manual de 5 velocidades."
-                },
-                {
-                    "name": "El modo ECO y el sensor inteligente permiten ahorrar más energía que el Mini Split Inverter."
-                },
-                {
-                    "name": "Utiliza refrigerante R-410a ya que no genera impacto en el medio ambiente."
-                },
-                {
-                    "img": "/img/Residencial/id2.png"
-                },
-                {
-                    "catalogo": "https://www.daikin-argentina.com/wp-content/uploads/2021/03/daikin-mini-split.pdf"
-                }
-            ]
-        },
-        {
-            "id": "3",
-            "titulo": "Multi Split Inverter Premium Daikin",
-            "slogan": "Un equipo exterior de alto rendimiento y eficiencia energética que permite conectar hasta 5 diferentes tipos de unidades.",
-            "detalle": [
-                {
-                    "name": "Ofrece con modelos con capacidad de 2.500, 3.500, 5.000, 6.000 y 7.100w."
-                },
-                {
-                    "name": "Un sólo equipo exterior puede conectarse con hasta 5 interiores."
-                },
-                {
-                    "name": "Incluye elementos de filtrado y purificación del aire."
-                },
-                {
-                    "name": "Cuenta con opciones de unidades interiores: mural, cassette y baja silueta para ductos."
-                },
-                {
-                    "name": "Reduce el espacio físico que ocuparían las unidades exteriores."
-                },
-                {
-                    "name": "Utiliza refrigerante R-410a ya que no genera impacto en el medio ambiente."
-                },
-                {
-                    "img": "/img/Residencial/id3.png"
-                },
-                {
-                    "catalogo": "https://www.daikin-argentina.com/wp-content/uploads/2021/03/daikin-multi-split-premium.pdf"
-                }
-            ]
-        },
-        {
-            "id": "4",
-            "titulo": "Multi Split Inverter Daikin",
-            "slogan": "Ideal para climatizar todos los ambientes de tu hogar con una sola unidad exterior.",
-            "detalle": [
-                {
-                    "name": "Cuenta con modelos con capacidad de 2.500, 3.500, y 5.000w."
-                },
-                {
-                    "name": "Permite conectar hasta 4 unidades interiores."
-                },
-                {
-                    "name": "Incluye elementos de filtrado y purificación del aire."
-                },
-                {
-                    "name": "Permite ahorrar hasta un 40% del consumo de electricidad."
-                },
-                {
-                    "name": "Posee el mínimo nivel de sonoridad y no genera ruidos molestos."
-                },
-                {
-                    "name": "Utiliza refrigerante R-410a ya que no genera impacto en el medio ambiente."
-                },
-                {
-                    "img": "/img/Residencial/id4.png"
-                },
-                {
-                    "catalogo": "https://www.daikin-argentina.com/wp-content/uploads/2021/03/daikin-multi-split.pdf"
-                }
-            ]
-        },
-        {
-            "id": "5",
-            "titulo": "VRV SMALL",
-            "slogan": "El sistema más eficiente del mercado en su versión small que permite climatizar hasta 14 ambientes con múltiples diseños interiores.",
-            "detalle": [
-                {
-                    "name": "Cuenta con modelos con capacidad de 4 a 9 HP."
-                },
-                {
-                    "name": "Elevado coeficiente de desempeño y ahorro de energía."
-                },
-                {
-                    "name": "6 tipos y 18 modelos de unidades interiores residenciales."
-                },
-                {
-                    "name": "Múltiples opciones en sistemas de control."
-                },
-                {
-                    "name": "Funcionamiento silencioso en modo nocturno."
-                },
-                {
-                    "name": "Flexibilidad de diseño y fácil instalación."
-                },
-                {
-                    "name": "Utiliza refrigerante R-410a y no genera impacto en el medio ambiente."
-                },
-                {
-                    "img": "/img/Residencial/id5.png"
-                },
-                {
-                    "catalogo": " No existe "
-                }
-            ]
-        },
-        {
-            "id": "6",
-            "titulo": "Mini Chiller Inverter",
-            "slogan": "Generador de agua caliente para climatizar tu hogar.",
-            "detalle1": "¿Necesitás un sistema de climatización que no requiera gas natural?",
-            "detalle2": "Mini Chiller Inverter Máxima eficiencia y cuidado del medio ambiente. Equipos sin emisión de gases contaminantes.",
-            "img": [
-                {
-                    "img": "/img/Residencial/id6.png"
-                },
-                {
-                    "img": "/img/Residencial/id06.png"
-                }
-            ],
-            "detalle3": [
-                {
-                    "name": "Máxima eficiencia y cuidado del medio ambiente. Equipos sin emisión de gases contaminantes."
-                },
-                {
-                    "name": "Máxima eficiencia con combustión 0%."
-                },
-                {
-                    "name": "Sistema con bomba de calor: AEROTERMIA."
-                },
-                {
-                    "name": "Único sistema: calefacción y refrigeración."
-                },
-                {
-                    "name": "Sostenible: alto ahorro energético y reducido impacto ambiental."
-                },
-                {
-                    "name": "Operación -15°C a 45°C."
-                },
-                {
-                    "name": "Unidad condensadora exterior, sin ocupar espacio interior."
-                },
-                {
-                    "name": "100% eléctrico. Ideal zonas con falta de gas."
-                },
-                {
-                    "name": "Equipos modulares hasta 8 unidades."
-                },
-                {
-                    "name": "Bajo nivel sonoro."
-                },
-                {
-                    "name": "Conexión con fan coils y piso radiante."
-                },
-                {
-                    "name": "Compatible con paneles solares."
-                },
-                {
-                    "catalogo": "https://www.daikin-argentina.com/wp-content/uploads/2021/06/mini-chiller-A4-Agosto-2022-online.pdf"
-                }
-            ],
-            "detalle4": [
-                {
-                    "seccion": [
-                        {
-                            "name": "El silencio es Confort"
-                        },
-                        {
-                            "name": "Nuestro mini chiller de uso residencial fue diseñado pensando en el usuario final.\nSe trabajó en 8 diferentes puntos de la tecnología de reducción del ruido, para lograr uno de los equipos más silenciosos del mercado."
-                        },
-                        {
-                            "name": "Nuestro mini chiller de uso residencial fue diseñado pensando en el usuario final."
-                        },
-                        {
-                            "name": "Se trabajó en 8 diferentes puntos de la tecnología de reducción del ruido, para lograr uno de los equipos más silenciosos del mercado."
-                        },
-                        {
-                            "name": "La batalla del frío"
-                        },
-                        {
-                            "name": "Este equipo ofrece una solución renovable y todo en uno de calefacción y refrigeración, ideal tanto para climas fríos como para cálidos.\nEste equipo utiliza el aire exterior para ofrecer la capacidad de calor necesaria, con temperaturas exteriores de hasta -15°C."
-                        },
-                        {
-                            "name": "Este equipo ofrece una solución renovable y todo en uno de calefacción y refrigeración, ideal tanto para climas fríos como para cálidos."
-                        },
-                        {
-                            "name": "Este equipo utiliza el aire exterior para ofrecer la capacidad de calor necesaria, con temperaturas exteriores de hasta -15°C."
-                        },
-                        {
-                            "img": "/img/Residencial/0601.jpeg"
-                        }
-                    ]
-                }
-            ],
-            "detalle5": [
-                {
-                    "titulo": "Fan Coil de conductos",
-                    "slogan": "Máxima eficiencia ocupando el menor espacio posible. Sus unidades, extremadamente silenciosas, se adaptan con facilidad a cualquier ambiente.",
-                    "detalle": [
-                        {
-                            "name": "Diseño delgado, tienen solo 24cm de alto, es la solución ideal para espacios reducidos."
-                        },
-                        {
-                            "name": "Climatización invisible empotrable en cieloraso."
-                        },
-                        {
-                            "name": "Óptima distribución del aire."
-                        },
-                        {
-                            "name": "Modelo de baja presión con bandeja de condensado con descarga."
-                        },
-                        {
-                            "name": "Apto para aire acondicionado y calefacción."
-                        },
-                        {
-                            "name": "Control inteligente Touch Screen."
-                        },
-                        {
-                            "name": "Amplio rango de capacidades de 2 a 8 KW."
-                        },
-                        {
-                            "name": "Fácil mantenimiento con filtro de nylon lavable y pleno retorno posterior."
-                        },
-                        {
-                            "catalogo": "https://www.daikin-argentina.com/wp-content/uploads/2021/06/fancoil-A4-agosto-2022-online.pdf"
-                        }
-                    ]
-                }
-            ]
-        }
-    ],
-    "comercial": [
-        {
-            "id": "1",
-            "titulo": "CONJUNTO DE DEMAS PRODUCTOS ANALIZAR ESTE ID",
-            "slogan": "?",
-            "detalle": [
-                {
-                    "name": "."
-                },
-                {
-                    "name": "."
-                },
-                {
-                    "name": "."
-                },
-                {
-                    "name": "."
-                },
-                {
-                    "name": "."
-                },
-                {
-                    "name": "."
-                },
-                {
-                    "img": "."
-                },
-                {
-                    "catalogo": ""
-                }
-            ]
-        },
-        {
-            "id": "2",
-            "titulo": "Sky Air Inverter\n¿Está encendido?",
-            "slogan": "No se oye. No impacta en el medio ambiente. Y asegura el clima perfecto. Descubrí la nueva generación de equipos inverter sustentables.",
-            "img": [
-                {
-                    "img": "public/img/Comercial/id2.png"
-                },
-                {
-                    "img": "public/img/Comercial/id2-1.jpg"
-                },
-                {
-                    "img": "public/img/Comercial/id2-2.jpg"
-                },
-                {
-                    "img": "public/img/Comercial/id2-3.jpg"
-                }
-            ],
-            "detalle": [
-                {
-                    "detalle": [
-                        {
-                            "name": "Equipos 100% sustentables"
-                        },
-                        {
-                            "name": "En 2012 DAIKIN descubre el R-32, hoy la generación de gas refrigerante más eficiente del mercado, con importantes ventajas a nivel de eficiencia, rentabilidad y cuidado del medio ambiente."
-                        },
-                        {
-                            "name": "La influencia que tiene este refrigerante sobre el calentamiento global es de 1/3 sobre los refrigerantes convencionales. Esto lo convierte en el más eficiente del mercado."
-                        },
-                        {
-                            "name": "Ahorro energético.\nTecnología sustentable.\nReducción de emisión CO2."
-                        },
-                        {
-                            "name": "A la fecha, hay más de 110 millones de unidades de aire acondicionado utilizando esta tecnología en más de 100 países de todo el mundo. El objetivo es único y claro: seguir creciendo en países que adopten esta tecnología en el camino hacia la carbono neutralidad."
-                        },
-                        {
-                            "img": "public/img/Comercial/id2-4.jpg"
-                        }
-                    ]
-                },
-                {
-                    "detalle": [
-                        {
-                            "name": "Baja Silueta Inverter"
-                        },
-                        {
-                            "name": "La más completa línea de equipos de baja silueta para aplicaciones comerciales:"
-                        },
-                        {
-                            "name": "Capacidades 3 y 5TR."
-                        },
-                        {
-                            "name": "Climatización invisible: empotrado en cielo raso."
-                        },
-                        {
-                            "name": "Bomba de drenaje incorporada."
-                        },
-                        {
-                            "name": "Doble protección de drenaje."
-                        },
-                        {
-                            "name": "Función Re-Start."
-                        },
-                        {
-                            "img": "public/img/Comercial/id2-5.png"
-                        },
-                        {
-                            "catalogo": "https://www.daikin-argentina.com/wp-content/uploads/2022/12/skyr32%20on%20line_compressed.pdf"
-                        }
-                    ]
-                },
-                {
-                    "detalle": [
-                        {
-                            "name": "Cassette Inverter"
-                        },
-                        {
-                            "name": "La nueva generación de unidades de Cassette Daikin llegó a la Argentina. Máxima innovación y performance."
-                        },
-                        {
-                            "name": "Capacidades 3 y 5tr."
-                        },
-                        {
-                            "name": "Excelente distribución de aire gracias a su flujo 360°."
-                        },
-                        {
-                            "name": "Bajo nivel sonoro."
-                        },
-                        {
-                            "name": "Control remoto inalámbrico."
-                        },
-                        {
-                            "img": "public/img/Comercial/id2-6.jpg"
-                        },
-                        {
-                            "catalogo": "https://www.daikin-argentina.com/wp-content/uploads/2022/12/skyr32%20on%20line_compressed.pdf"
-                        }
-                    ]
-                },
-                {
-                    "detalle": [
-                        {
-                            "name": "Piso Techo Inverter"
-                        },
-                        {
-                            "name": "Sky Air Advance presenta también opciones de Techo Inverter de alto rendimiento. Descubrí sus beneficios:"
-                        },
-                        {
-                            "name": "Capacidades 3 y 5TR. "
-                        },
-                        {
-                            "name": "Flexibilidad de instalación (en piso o en techo)."
-                        },
-                        {
-                            "name": "Swing de aire automático."
-                        },
-                        {
-                            "name": "Función autodiagnóstico."
-                        },
-                        {
-                            "img": "Mantenimiento sencillo."
-                        },
-                        {
-                            "catalogo": "https://www.daikin-argentina.com/wp-content/uploads/2022/12/skyr32%20on%20line_compressed.pdf"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "3",
-            "titulo": "Sky Air",
-            "slogan": "La línea más completa de soluciones en sistemas separados para aplicaciones comerciales.",
-            "img": [
-                {
-                    "img": "public/img/Comercial/id2-1.jpg"
-                },
-                {
-                    "img": "public/img/Comercial/id2-2.jpg"
-                },
-                {
-                    "img": "public/img/Comercial/id2-3.jpg"
-                },
-                {
-                    "img": "public/img/Comercial/id2-7.jpeg"
-                }
-            ],
-            "detalle":[
-                {
-                    "detalle": [
-                        {
-                            "name": "Baja Silueta"
-                        },
-                        {
-                            "name": "La más completa línea de equipos de baja silueta para aplicaciones comerciales:"
-                        },
-                        {
-                            "name": "Capacidades 2, 3, 4 y 5TR."
-                        },
-                        {
-                            "name": "Climatización invisible: empotrado en cielo raso."
-                        },
-                        {
-                            "name": "Doble protección de drenaje."
-                        },
-                        {
-                            "name": "Función Re-Start."
-                        },
-                        {
-                            "img": "public/img/Comercial/id2-5.png"
-                        },
-                        {
-                            "catalogo": "https://www.daikin-argentina.com/wp-content/uploads/2021/06/SKY-diptico-original-A4-comprimido.pdf"
-                        }
-                    ]
-                },
-                {
-                    "detalle": [
-                        {
-                            "name": "Cassette"
-                        },
-                        {
-                            "name": "La generación de unidades de Cassette Daikin con excelente distribución de aire."
-                        },
-                        {
-                            "name": "Capacidad 4TR"
-                        },
-                        {
-                            "name": "Excelente distribución de aire gracias a su flujo 360°"
-                        },
-                        {
-                            "name": "Bajo nivel sonoro."
-                        },
-                        {
-                            "name": "Control remoto inalámbrico."
-                        },
-                        {
-                            "name": "Bomba de drenaje incorporada."
-                        },
-                        {
-                            "img": "public/img/Comercial/id2-6.jpg"
-                        },
-                        {
-                            "catalogo": ""
-                        }
-                    ]
-                },
-                {
-                    "detalle": [
-                        {
-                            "name": "Piso Techo"
-                        },
-                        {
-                            "name": "Sky Air presenta también opciones de Techo y Piso de alto rendimiento. Descubrí sus beneficios:"
-                        },
-                        {
-                            "name": "Capacidades 3 y 5TR."
-                        },
-                        {
-                            "name": "Flexibilidad de instalación (en piso o en techo)."
-                        },
-                        {
-                            "name": "Swing de aire automático."
-                        },
-                        {
-                            "name": "Función autodiagnóstico."
-                        },
-                        {
-                            "name": "Mantenimiento sencillo."
-                        },
-                        {
-                            "img": "public/img/Comercial/id2-3.jpg"
-                        },
-                        {
-                            "catalogo": "https://www.daikin-argentina.com/wp-content/uploads/2021/06/SKY-diptico-original-A4-comprimido.pdf"
-                        }
-                    ]
-                }
-                
-            ]
-        },
-        {
-            "id": "4",
-            "titulo": "Packaged",
-            "slogan": "Amplia gama de soluciones para proyectos comerciales e industriales.     ",
-            "detalle": [
-                {
-                    "detalle":[
-                        {
-                            "name": [
-                                {
-                                    "name":"Separados comerciales"
-                                },
-                                {
-                                    "name":"Equipos frío calor por bomba con condensadoras modulares (6-50tr). Refrigerante R-407c."
-                                }
-                            ]
-                        },
-                        {
-                            "name": [
-                                {
-                                    "name":"Rooftop a gas"
-                                },
-                                {
-                                    "name":"Unidades frío calor por gas con refrigerante R-410a (7.5-20tr)."
-                                }
-                            ]
-                        },
-                        {
-                            "name": [
-                                {
-                                    "name":"Rooftop heat pump"
-                                },
-                                {
-                                    "name":"Unidades frío calor por bomba con refrigerante R-407c (7-35tr) y con refrigerante R-410a (8-22tr)."
-                                }
-                            ]
-                        },
-                        {"img": "public/img/Comercial/id2-8.png"}
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "5",
-            "titulo": "Sistemas de control",
-            "slogan": "La gestión de los equipos de aire nunca fue tan fácil. Descubrí el máximo nivel de control:",
-            "detalle": [
-                {"name": "La configuración de áreas simplifica la gestión detallada del sistema VRV."},
-                {"name": "Muestra el origen en las operaciones anteriores de las unidades."},
-                {"name": "El acceso remoto a los equipos con el mismo tipo de pantallas Intelligent Touch Manager."},
-                {"name": "La visualización de los planos permite realizar búsquedas rápidas de unidades."},
-                {"name": "La función Energy Navigator analiza el consumo e identifica operaciones ineficientes."},
-                {"name": "Los usuarios autorizados pueden controlar centralmente unidades de aire individuales."},
-                {"img": "public/img/Comercial/id2-9.png"},
-                {"catalogo": "https://www.daikin-argentina.com/wp-content/uploads/2021/03/daikin-sistemas-de-control.pdf"}
-            ]
-        }
-    ]
-}
+[
+    {
+        "id": "1",
+        "titulo": "Daikin Kirara Sense",
+        "slogan": "La evolución del confort interior, con sensor inteligente. Tecnología japonesa de máxima eficiencia para tu hogar.",
+        "detalle": [
+            {
+                "name": "Ofrece con modelos con capacidad de 2.500, 3.500, 5.000, y 6.000."
+            },
+            {
+                "name": "Sensor de movimiento para orientar el flujo del aire y anticipar la carga térmica."
+            },
+            {
+                "name": "Alcanzan rápidamente la temperatura deseada, tanto en frío como en calor."
+            },
+            {
+                "name": "Control automático del flujo de aire. Selección manual de 5 velocidades."
+            },
+            {
+                "name": "Con el modo ECO y el sensor inteligente permite ahorrar aún más energía que el Mini Split Inverter estándar."
+            },
+            {
+                "name": "Utiliza refrigerante R-410a ya que no genera impacto en el medio ambiente."
+            }
+        ],
+        "img": "/img/Residencial/id1.png",
+        "catalogo": "https://www.daikin-argentina.com/wp-content/uploads/2021/03/daikin-mini-sense.pdf",
+        "categoria": "residencial"
+    },
+    {
+        "id": "2",
+        "titulo": "Mini Split Inverter Daikin",
+        "slogan": "Diseñado para climatizar todos los ambientes del hogar con el máximo nivel de eficiencia energética.",
+        "detalle": [
+            {
+                "name": "Cuenta con modelos con capacidad de 2.500, 3.500, 5.500 y 6.300w."
+            },
+            {
+                "name": "Sensor de movimiento para orientar el flujo del aire y anticipar la carga térmica."
+            },
+            {
+                "name": "Alcanzan rápidamente la temperatura deseada, tanto en frío como en calor."
+            },
+            {
+                "name": "Control automático del flujo de aire. Selección manual de 5 velocidades."
+            },
+            {
+                "name": "El modo ECO y el sensor inteligente permiten ahorrar más energía que el Mini Split Inverter."
+            },
+            {
+                "name": "Utiliza refrigerante R-410a ya que no genera impacto en el medio ambiente."
+            }
+        ],
+        "img": "/img/Residencial/id2.png",
+        "catalogo": "https://www.daikin-argentina.com/wp-content/uploads/2021/03/daikin-mini-split.pdf",
+        "categoria": "residencial"
+    },
+    {
+        "id": "3",
+        "titulo": "Multi Split Inverter Premium Daikin",
+        "slogan": "Un equipo exterior de alto rendimiento y eficiencia energética que permite conectar hasta 5 diferentes tipos de unidades.",
+        "detalle": [
+            {
+                "name": "Ofrece con modelos con capacidad de 2.500, 3.500, 5.000, 6.000 y 7.100w."
+            },
+            {
+                "name": "Un sólo equipo exterior puede conectarse con hasta 5 interiores."
+            },
+            {
+                "name": "Incluye elementos de filtrado y purificación del aire."
+            },
+            {
+                "name": "Cuenta con opciones de unidades interiores: mural, cassette y baja silueta para ductos."
+            },
+            {
+                "name": "Reduce el espacio físico que ocuparían las unidades exteriores."
+            },
+            {
+                "name": "Utiliza refrigerante R-410a ya que no genera impacto en el medio ambiente."
+            }
+        ],
+        "img": "/img/Residencial/id3.png",
+        "catalogo": "https://www.daikin-argentina.com/wp-content/uploads/2021/03/daikin-multi-split-premium.pdf",
+        "categoria": "residencial"
+    },
+    {
+        "id": "4",
+        "titulo": "Multi Split Inverter Daikin",
+        "slogan": "Ideal para climatizar todos los ambientes de tu hogar con una sola unidad exterior.",
+        "detalle": [
+            {
+                "name": "Cuenta con modelos con capacidad de 2.500, 3.500, y 5.000w."
+            },
+            {
+                "name": "Permite conectar hasta 4 unidades interiores."
+            },
+            {
+                "name": "Incluye elementos de filtrado y purificación del aire."
+            },
+            {
+                "name": "Permite ahorrar hasta un 40% del consumo de electricidad."
+            },
+            {
+                "name": "Posee el mínimo nivel de sonoridad y no genera ruidos molestos."
+            },
+            {
+                "name": "Utiliza refrigerante R-410a ya que no genera impacto en el medio ambiente."
+            }
+        ],
+        "img": "/img/Residencial/id4.png",
+        "catalogo": "https://www.daikin-argentina.com/wp-content/uploads/2021/03/daikin-multi-split.pdf",
+        "categoria": "residencial"
+    },
+    {
+        "id": "5",
+        "titulo": "VRV SMALL",
+        "slogan": "El sistema más eficiente del mercado en su versión small que permite climatizar hasta 14 ambientes con múltiples diseños interiores.",
+        "detalle": [
+            {
+                "name": "Cuenta con modelos con capacidad de 4 a 9 HP."
+            },
+            {
+                "name": "Elevado coeficiente de desempeño y ahorro de energía."
+            },
+            {
+                "name": "6 tipos y 18 modelos de unidades interiores residenciales."
+            },
+            {
+                "name": "Múltiples opciones en sistemas de control."
+            },
+            {
+                "name": "Funcionamiento silencioso en modo nocturno."
+            },
+            {
+                "name": "Flexibilidad de diseño y fácil instalación."
+            },
+            {
+                "name": "Utiliza refrigerante R-410a y no genera impacto en el medio ambiente."
+            }
+        ],
+        "img": "/img/Residencial/id5.png",
+        "catalogo": " No existe ",
+        "categoria": "residencial"
+    },
+    {
+        "id": "6",
+        "titulo": "Mini Chiller Inverter",
+        "slogan": "Generador de agua caliente para climatizar tu hogar.",
+        "detalle1": "¿Necesitás un sistema de climatización que no requiera gas natural?",
+        "detalle2": "Mini Chiller Inverter Máxima eficiencia y cuidado del medio ambiente. Equipos sin emisión de gases contaminantes.",
+        "img": "/img/Residencial/id6.png",
+        "img1": "/img/Residencial/id06.png",
+        "detalle3": [
+            {
+                "name": "Máxima eficiencia y cuidado del medio ambiente. Equipos sin emisión de gases contaminantes."
+            },
+            {
+                "name": "Máxima eficiencia con combustión 0%."
+            },
+            {
+                "name": "Sistema con bomba de calor: AEROTERMIA."
+            },
+            {
+                "name": "Único sistema: calefacción y refrigeración."
+            },
+            {
+                "name": "Sostenible: alto ahorro energético y reducido impacto ambiental."
+            },
+            {
+                "name": "Operación -15°C a 45°C."
+            },
+            {
+                "name": "Unidad condensadora exterior, sin ocupar espacio interior."
+            },
+            {
+                "name": "100% eléctrico. Ideal zonas con falta de gas."
+            },
+            {
+                "name": "Equipos modulares hasta 8 unidades."
+            },
+            {
+                "name": "Bajo nivel sonoro."
+            },
+            {
+                "name": "Conexión con fan coils y piso radiante."
+            },
+            {
+                "name": "Compatible con paneles solares."
+            },
+            {
+                "img": "/img/Residencial/0600.jpeg"
+            },
+            {
+                "catalogo": "https://www.daikin-argentina.com/wp-content/uploads/2021/06/mini-chiller-A4-Agosto-2022-online.pdf"
+            }
+        ],
+        "detalle4": [
+            {
+                "seccion": [
+                    {
+                        "name": "El silencio es Confort"
+                    },
+                    {
+                        "name": "Nuestro mini chiller de uso residencial fue diseñado pensando en el usuario final.\nSe trabajó en 8 diferentes puntos de la tecnología de reducción del ruido, para lograr uno de los equipos más silenciosos del mercado."
+                    },
+                    {
+                        "name": "Nuestro mini chiller de uso residencial fue diseñado pensando en el usuario final."
+                    },
+                    {
+                        "name": "Se trabajó en 8 diferentes puntos de la tecnología de reducción del ruido, para lograr uno de los equipos más silenciosos del mercado."
+                    },
+                    {
+                        "name": "La batalla del frío"
+                    },
+                    {
+                        "name": "Este equipo ofrece una solución renovable y todo en uno de calefacción y refrigeración, ideal tanto para climas fríos como para cálidos.\nEste equipo utiliza el aire exterior para ofrecer la capacidad de calor necesaria, con temperaturas exteriores de hasta -15°C."
+                    },
+                    {
+                        "name": "Este equipo ofrece una solución renovable y todo en uno de calefacción y refrigeración, ideal tanto para climas fríos como para cálidos."
+                    },
+                    {
+                        "name": "Este equipo utiliza el aire exterior para ofrecer la capacidad de calor necesaria, con temperaturas exteriores de hasta -15°C."
+                    },
+                    {
+                        "img": "/img/Residencial/0601.jpeg"
+                    }
+                ]
+            }
+        ],
+        "detalle5": [
+            {
+                "titulo": "Fan Coil de conductos",
+                "slogan": "Máxima eficiencia ocupando el menor espacio posible. Sus unidades, extremadamente silenciosas, se adaptan con facilidad a cualquier ambiente.",
+                "detalle": [
+                    {
+                        "name": "Diseño delgado, tienen solo 24cm de alto, es la solución ideal para espacios reducidos."
+                    },
+                    {
+                        "name": "Climatización invisible empotrable en cieloraso."
+                    },
+                    {
+                        "name": "Óptima distribución del aire."
+                    },
+                    {
+                        "name": "Modelo de baja presión con bandeja de condensado con descarga."
+                    },
+                    {
+                        "name": "Apto para aire acondicionado y calefacción."
+                    },
+                    {
+                        "name": "Control inteligente Touch Screen."
+                    },
+                    {
+                        "name": "Amplio rango de capacidades de 2 a 8 KW."
+                    },
+                    {
+                        "name": "Fácil mantenimiento con filtro de nylon lavable y pleno retorno posterior."
+                    },
+                    {
+                        "catalogo": "https://www.daikin-argentina.com/wp-content/uploads/2021/06/fancoil-A4-agosto-2022-online.pdf"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7",
+        "titulo": "Sky Air Inverter\n¿Está encendido?",
+        "slogan": "No se oye. No impacta en el medio ambiente. Y asegura el clima perfecto. Descubrí la nueva generación de equipos inverter sustentables.",
+        "img": "/img/Comercial/id2.png",
+        "img1": 
+        [
+            {
+                "img": "/img/Comercial/id2-1.jpg"
+            },
+            {
+                "img": "/img/Comercial/id2-2.jpg"
+            },
+            {
+                "img": "/img/Comercial/id2-3.jpg"
+            }
+        ],
+        "detalle": [
+            {
+                "detalle": [
+                    {
+                        "name": "Equipos 100% sustentables"
+                    },
+                    {
+                        "name": "En 2012 DAIKIN descubre el R-32, hoy la generación de gas refrigerante más eficiente del mercado, con importantes ventajas a nivel de eficiencia, rentabilidad y cuidado del medio ambiente."
+                    },
+                    {
+                        "name": "La influencia que tiene este refrigerante sobre el calentamiento global es de 1/3 sobre los refrigerantes convencionales. Esto lo convierte en el más eficiente del mercado."
+                    },
+                    {
+                        "name": "Ahorro energético.\nTecnología sustentable.\nReducción de emisión CO2."
+                    },
+                    {
+                        "name": "A la fecha, hay más de 110 millones de unidades de aire acondicionado utilizando esta tecnología en más de 100 países de todo el mundo. El objetivo es único y claro: seguir creciendo en países que adopten esta tecnología en el camino hacia la carbono neutralidad."
+                    },
+                    {
+                        "img": "/img/Comercial/id2-4.jpg"
+                    }
+                ]
+            },
+            {
+                "detalle": [
+                    {
+                        "name": "Baja Silueta Inverter"
+                    },
+                    {
+                        "name": "La más completa línea de equipos de baja silueta para aplicaciones comerciales:"
+                    },
+                    {
+                        "name": "Capacidades 3 y 5TR."
+                    },
+                    {
+                        "name": "Climatización invisible: empotrado en cielo raso."
+                    },
+                    {
+                        "name": "Bomba de drenaje incorporada."
+                    },
+                    {
+                        "name": "Doble protección de drenaje."
+                    },
+                    {
+                        "name": "Función Re-Start."
+                    },
+                    {
+                        "img": "/img/Comercial/id2-5.png"
+                    },
+                    {
+                        "catalogo": "https://www.daikin-argentina.com/wp-content/uploads/2022/12/skyr32%20on%20line_compressed.pdf"
+                    }
+                ]
+            },
+            {
+                "detalle": [
+                    {
+                        "name": "Cassette Inverter"
+                    },
+                    {
+                        "name": "La nueva generación de unidades de Cassette Daikin llegó a la Argentina. Máxima innovación y performance."
+                    },
+                    {
+                        "name": "Capacidades 3 y 5tr."
+                    },
+                    {
+                        "name": "Excelente distribución de aire gracias a su flujo 360°."
+                    },
+                    {
+                        "name": "Bajo nivel sonoro."
+                    },
+                    {
+                        "name": "Control remoto inalámbrico."
+                    },
+                    {
+                        "img": "/img/Comercial/id2-6.jpg"
+                    },
+                    {
+                        "catalogo": "https://www.daikin-argentina.com/wp-content/uploads/2022/12/skyr32%20on%20line_compressed.pdf"
+                    }
+                ]
+            },
+            {
+                "detalle": [
+                    {
+                        "name": "Piso Techo Inverter"
+                    },
+                    {
+                        "name": "Sky Air Advance presenta también opciones de Techo Inverter de alto rendimiento. Descubrí sus beneficios:"
+                    },
+                    {
+                        "name": "Capacidades 3 y 5TR. "
+                    },
+                    {
+                        "name": "Flexibilidad de instalación (en piso o en techo)."
+                    },
+                    {
+                        "name": "Swing de aire automático."
+                    },
+                    {
+                        "name": "Función autodiagnóstico."
+                    },
+                    {
+                        "img": "Mantenimiento sencillo."
+                    },
+                    {
+                        "catalogo": "https://www.daikin-argentina.com/wp-content/uploads/2022/12/skyr32%20on%20line_compressed.pdf"
+                    }
+                ]
+            }
+        ],
+        "categoria":"comercial"
+    },
+    {
+        "id": "8",
+        "titulo": "Sky Air",
+        "slogan": "La línea más completa de soluciones en sistemas separados para aplicaciones comerciales.",
+        "img": "/img/Comercial/id2-1.jpg",
+        "img1": [
+            {
+                "img": "/img/Comercial/id2-2.jpg"
+            },
+            {
+                "img": "/img/Comercial/id2-3.jpg"
+            },
+            {
+                "img": "/img/Comercial/id2-7.jpeg"
+            }
+        ],
+        "detalle": [
+            {
+                "detalle": [
+                    {
+                        "name": "Baja Silueta"
+                    },
+                    {
+                        "name": "La más completa línea de equipos de baja silueta para aplicaciones comerciales:"
+                    },
+                    {
+                        "name": "Capacidades 2, 3, 4 y 5TR."
+                    },
+                    {
+                        "name": "Climatización invisible: empotrado en cielo raso."
+                    },
+                    {
+                        "name": "Doble protección de drenaje."
+                    },
+                    {
+                        "name": "Función Re-Start."
+                    },
+                    {
+                        "img": "/img/Comercial/id2-5.png"
+                    },
+                    {
+                        "catalogo": "https://www.daikin-argentina.com/wp-content/uploads/2021/06/SKY-diptico-original-A4-comprimido.pdf"
+                    }
+                ]
+            },
+            {
+                "detalle": [
+                    {
+                        "name": "Cassette"
+                    },
+                    {
+                        "name": "La generación de unidades de Cassette Daikin con excelente distribución de aire."
+                    },
+                    {
+                        "name": "Capacidad 4TR"
+                    },
+                    {
+                        "name": "Excelente distribución de aire gracias a su flujo 360°"
+                    },
+                    {
+                        "name": "Bajo nivel sonoro."
+                    },
+                    {
+                        "name": "Control remoto inalámbrico."
+                    },
+                    {
+                        "name": "Bomba de drenaje incorporada."
+                    },
+                    {
+                        "img": "/img/Comercial/id2-6.jpg"
+                    },
+                    {
+                        "catalogo": ""
+                    }
+                ]
+            },
+            {
+                "detalle": [
+                    {
+                        "name": "Piso Techo"
+                    },
+                    {
+                        "name": "Sky Air presenta también opciones de Techo y Piso de alto rendimiento. Descubrí sus beneficios:"
+                    },
+                    {
+                        "name": "Capacidades 3 y 5TR."
+                    },
+                    {
+                        "name": "Flexibilidad de instalación (en piso o en techo)."
+                    },
+                    {
+                        "name": "Swing de aire automático."
+                    },
+                    {
+                        "name": "Función autodiagnóstico."
+                    },
+                    {
+                        "name": "Mantenimiento sencillo."
+                    },
+                    {
+                        "img": "/img/Comercial/id2-3.jpg"
+                    },
+                    {
+                        "catalogo": "https://www.daikin-argentina.com/wp-content/uploads/2021/06/SKY-diptico-original-A4-comprimido.pdf"
+                    }
+                ]
+            }
+        ],
+        "categoria":"comercial"
+    },
+    {
+        "id": "9",
+        "titulo": "Packaged",
+        "slogan": "Amplia gama de soluciones para proyectos comerciales e industriales.     ",
+        "detalle": [
+            {
+                "detalle": [
+                    {
+                        "name": [
+                            {
+                                "name": "Separados comerciales"
+                            },
+                            {
+                                "name": "Equipos frío calor por bomba con condensadoras modulares (6-50tr). Refrigerante R-407c."
+                            }
+                        ]
+                    },
+                    {
+                        "name": [
+                            {
+                                "name": "Rooftop a gas"
+                            },
+                            {
+                                "name": "Unidades frío calor por gas con refrigerante R-410a (7.5-20tr)."
+                            }
+                        ]
+                    },
+                    {
+                        "name": [
+                            {
+                                "name": "Rooftop heat pump"
+                            },
+                            {
+                                "name": "Unidades frío calor por bomba con refrigerante R-407c (7-35tr) y con refrigerante R-410a (8-22tr)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "img": "/img/Comercial/id2-8.png",
+        "categoria":"comercial"
+    },
+    {
+        "id": "10",
+        "titulo": "Sistemas de control",
+        "slogan": "La gestión de los equipos de aire nunca fue tan fácil. Descubrí el máximo nivel de control:",
+        "detalle": [
+            {
+                "name": "La configuración de áreas simplifica la gestión detallada del sistema VRV."
+            },
+            {
+                "name": "Muestra el origen en las operaciones anteriores de las unidades."
+            },
+            {
+                "name": "El acceso remoto a los equipos con el mismo tipo de pantallas Intelligent Touch Manager."
+            },
+            {
+                "name": "La visualización de los planos permite realizar búsquedas rápidas de unidades."
+            },
+            {
+                "name": "La función Energy Navigator analiza el consumo e identifica operaciones ineficientes."
+            },
+            {
+                "name": "Los usuarios autorizados pueden controlar centralmente unidades de aire individuales."
+            }
+        ],
+        "img": "/img/Comercial/id2-9.png",
+        "catalogo": "https://www.daikin-argentina.com/wp-content/uploads/2021/03/daikin-sistemas-de-control.pdf",
+        "categoria":"comercial"
+    }
+]
