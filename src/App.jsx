@@ -6,6 +6,7 @@ import Footer from './components/Footer';
 import Nav from './components/Nav';
 import ItemListContainer from './components/ItemListContainer';
 import ItemDetailContainer from './components/ItemDetailContainer';
+import BodyApp1 from './components/BodyApp1';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       < BrowserRouter>
         < Nav />
         < Carrousel />
+        {/* < BodyApp1 /> */}
         < Routes>
           <Route path={"/"} element={<ItemListContainer />} />
           <Route path={"/category/:id"} element={<ItemListContainer />} />
