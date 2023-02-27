@@ -25,7 +25,7 @@
         ],
         "img": "/img/Residencial/id1.png",
         "catalogo": "https://www.daikin-argentina.com/wp-content/uploads/2021/03/daikin-mini-sense.pdf",
-        "categoria": "residencial"
+        "category": "residencial"
     },
     {
         "id": "2",
@@ -53,7 +53,7 @@
         ],
         "img": "/img/Residencial/id2.png",
         "catalogo": "https://www.daikin-argentina.com/wp-content/uploads/2021/03/daikin-mini-split.pdf",
-        "categoria": "residencial"
+        "category": "residencial"
     },
     {
         "id": "3",
@@ -81,7 +81,7 @@
         ],
         "img": "/img/Residencial/id3.png",
         "catalogo": "https://www.daikin-argentina.com/wp-content/uploads/2021/03/daikin-multi-split-premium.pdf",
-        "categoria": "residencial"
+        "category": "residencial"
     },
     {
         "id": "4",
@@ -109,7 +109,7 @@
         ],
         "img": "/img/Residencial/id4.png",
         "catalogo": "https://www.daikin-argentina.com/wp-content/uploads/2021/03/daikin-multi-split.pdf",
-        "categoria": "residencial"
+        "category": "residencial"
     },
     {
         "id": "5",
@@ -140,7 +140,7 @@
         ],
         "img": "/img/Residencial/id5.png",
         "catalogo": " No existe ",
-        "categoria": "residencial"
+        "category": "residencial"
     },
     {
         "id": "6",
@@ -391,7 +391,7 @@
                 ]
             }
         ],
-        "categoria":"comercial"
+        "category":"comercial"
     },
     {
         "id": "8",
@@ -501,7 +501,7 @@
                 ]
             }
         ],
-        "categoria":"comercial"
+        "category":"comercial"
     },
     {
         "id": "9",
@@ -544,7 +544,7 @@
             }
         ],
         "img": "/img/Comercial/id2-8.png",
-        "categoria":"comercial"
+        "category":"comercial"
     },
     {
         "id": "10",
@@ -572,6 +572,6 @@
         ],
         "img": "/img/Comercial/id2-9.png",
         "catalogo": "https://www.daikin-argentina.com/wp-content/uploads/2021/03/daikin-sistemas-de-control.pdf",
-        "categoria":"comercial"
+        "category":"comercial"
     }
 ]

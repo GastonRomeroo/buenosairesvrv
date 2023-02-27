@@ -5,12 +5,12 @@ import ArraydeProductos from "./json/residencial.json"
 
 const ItemListContainer = () => {
     const [items, setItems] = useState([]);
-    const {id} = useParams() 
+    const { id } = useParams()
 
     useEffect(() => {
         const promesa = new Promise((resolve) => {
             setTimeout(() => {
-                resolve(id ? ArraydeProductos.filter(item =>  item.cat === id) : ArraydeProductos);
+                resolve(id ? ArraydeProductos.filter(item => item.cat === id) : ArraydeProductos);
             }, 2000);
         });
         promesa.then((data) => {

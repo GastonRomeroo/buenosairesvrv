@@ -1,4 +1,5 @@
-import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import React from 'react';
+import { BrowserRouter, Routes , Route} from 'react-router-dom';
 import './App.css';
 import Carrousel from './components/carrousel';
 import Footer from './components/Footer';
