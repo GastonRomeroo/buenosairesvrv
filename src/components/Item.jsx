@@ -6,6 +6,7 @@ const Item = ({ item }) => {
         <Link to={"/item/" + item.id} className="text-decoration-none text-dark ">
             <img src={item.img} width={110} alt={item.titulo} />
             <p className="card-text">{item.titulo}</p>
+            <p className="card-text">{item.slogan}</p>
         </Link>
     );
 };

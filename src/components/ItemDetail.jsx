@@ -1,12 +1,9 @@
 import React  from "react";
-
-
 const ItemDetail = ({ item }) => {
-    
     return (
         <div className="card mb-3">
             <div className="row g-0">
-                <div className="col-md-4">
+                <div className="col-md-4" >
                     <img src={item.img} className="img-fluid rounded-start" width={80} alt={item.detalle}></img>
                 </div>
                 <div className="col-md-8">
@@ -18,9 +15,6 @@ const ItemDetail = ({ item }) => {
                 </div>
             </div>
         </div>
-
     )
 };
-
-
 export default ItemDetail;
