@@ -38,5 +38,17 @@
   },
   "devDependencies": {
     "cypress": "^12.7.0"
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "cypress.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/palazzid88/buenosairesvrv.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/palazzid88/buenosairesvrv/issues"
+  },
+  "homepage": "https://github.com/palazzid88/buenosairesvrv#readme"
 }

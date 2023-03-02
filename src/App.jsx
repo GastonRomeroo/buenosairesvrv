@@ -5,6 +5,9 @@ import Nav from './components/NavBar';
 import Carrousel from './components/carrousel';
 import Footer from './components/Footer';
 import ItemDetailContainer from './components/ItemDetailContainer';
+import BodyApp1 from './components/BodyApp1';
+import ItemListContainer from './components/ItemListContainer';
+import Error404 from "./components/Error404";
 
 function App() {
   return (
@@ -19,7 +22,7 @@ function App() {
           <Route path={"/item/:id"} element={<ItemDetailContainer />} />
           <Route path={"*"} element={<Error404 />} />;
         </Routes>
-        <BodyApp />
+        {/* <BodyApp /> */}
         < Footer />
       </BrowserRouter>
     </div>
