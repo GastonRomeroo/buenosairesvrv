@@ -16,13 +16,13 @@ const Nav = () => {
                             </button>
                         </div>
 
-                        <div className="collapse navbar-collapse" >
+                        <div className="collapse navbar-collapse">
                             <ul className="navbar-nav">
                                 <li className="nav-item">
-                                    <NavLink className="nav-link" style={style.container} to={"./categoy/residencial"}>Residencial</NavLink>
+                                    <NavLink className="nav-link" to={"./categoy/residencial"}>Residencial</NavLink>
                                 </li>
                                 <li className="nav-item">
-                                    <NavLink className="nav-link" style={style.container} to={"./category/comercial"}>Comercial</NavLink>
+                                    <NavLink className="nav-link" to={"./category/comercial"}>Comercial</NavLink>
                                 </li>
                             </ul>
                         </div>
@@ -32,12 +32,6 @@ const Nav = () => {
         </div>
 
     )
-}
-
-const style = {
-    container: {
-    color : 'white'
-}
 }
 
 export default Nav
