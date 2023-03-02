@@ -1,14 +1,20 @@
-.bodyapp__img{
-    background-image: url("../../public/construction.jpg");
-    background-size: cover;
-    height: 500px;
+.ul-list {
+    display: flex;
+    flex-direction: row;
 }
 
-.message__div{
-    color: white;
-    margin: auto;
-    padding: 300px;
-    text-align: center;
-    align-items: center;
+.ul-list-a, .ul-list-b {
+    display: flex;
+    flex-direction: column;
+}
 
+.section-vrv, .section-inverter, .section-eficiencia {
+    margin: 50px;
+    display: flex;
+    flex-direction: row;
+}
+
+.div-vrv {
+    display: flex;
+    flex-direction: column;
 }

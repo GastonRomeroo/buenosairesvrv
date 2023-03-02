@@ -1,7 +1,7 @@
 import React from "react";
 import { Link, NavLink } from 'react-router-dom';
 
-const NavBar = () => {
+const Nav = () => {
     return (
         <div className="row">
             <div className='col '>
@@ -17,8 +17,12 @@ const NavBar = () => {
                         </div>
                         <div className="collapse navbar-collapse">
                             <ul className="navbar-nav">
-                                <NavLink className="nav-item nav-link text-white" to={"/category/residencial"}>Residencial</NavLink>
-                                <NavLink className="nav-item nav-link text-white" to={"/category/comercial"}>Comercial</NavLink>
+                                <li className="nav-item">
+                                    <NavLink className="nav-link" to={"./categoy/residencial"}>Residencial</NavLink>
+                                </li>
+                                <li className="nav-item">
+                                    <NavLink className="nav-link" to={"./category/comercial"}>Comercial</NavLink>
+                                </li>
                             </ul>
                         </div>
                     </div>
@@ -29,4 +33,4 @@ const NavBar = () => {
     )
 }
 
-export default NavBar
+export default Nav
