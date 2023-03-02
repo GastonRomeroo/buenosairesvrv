@@ -14,7 +14,7 @@ function App() {
       < BrowserRouter>
         < Nav />
         < Carrousel />
-        {/* < BodyApp1 /> */}
+        < BodyApp1 />
         < Routes>
           <Route path={"/"} element={<ItemListContainer />} />
           <Route path={"/category/:id"} element={<ItemListContainer />} />
