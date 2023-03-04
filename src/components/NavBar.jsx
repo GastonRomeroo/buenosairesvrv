@@ -31,4 +31,3 @@ const NavBar = () => {
 }
 
 export default NavBar
-//it's maked for Aivan

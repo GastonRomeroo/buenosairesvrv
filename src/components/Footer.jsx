@@ -3,10 +3,10 @@ import { Link } from "react-router-dom";
 
 const Footer = () => {
     return (
-        <footer className="bg-dark text-center text-white">
+        <div className="bg-dark text-center text-white">
             <div className="container p-4">
                 <div className="mb-4">
-                    <Link className="btn btn-outline-light btn-floating m-1"><ion-icon name="logo-facebook"></ion-icon></Link>
+                    <Link className="btn btn-outline-light btn-floating m-1"><ion-icon name="logo-whatsapp"></ion-icon></Link>
                     <Link className="btn btn-outline-light btn-floating m-1"><ion-icon name="logo-twitter"></ion-icon></Link>
                     <Link className="btn btn-outline-light btn-floating m-1"><ion-icon name="logo-google"></ion-icon></Link>
                     <Link className="btn btn-outline-light btn-floating m-1"><ion-icon name="logo-instagram"></ion-icon></Link>
@@ -17,8 +17,6 @@ const Footer = () => {
                         <h6 className="text-uppercase fw-bold mb-4"> <ion-icon name="snow-outline"></ion-icon> Contacto <ion-icon name="snow-outline"></ion-icon></h6>
                         <p><i><ion-icon name="map-outline"></ion-icon> CABA, San Isidro, AR</i></p>
                         <p><i><ion-icon name="mail-outline"></ion-icon> bairesvrv@gmail.com</i></p>
-                        <p><i><ion-icon name="call-outline"></ion-icon> + 54 9 11 3388 2244</i></p>
-                        <p><i><ion-icon name="call-outline"></ion-icon> + 54 9 11 2255 5588</i></p>
                     </div>
                 </div>
                 <div>
@@ -28,7 +26,7 @@ const Footer = () => {
                     </div>
                 </div>
             </div>
-        </footer>
+        </div>
     )
 }
 

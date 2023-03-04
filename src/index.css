@@ -15,3 +15,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.classFooter {
+  display: flex;
+}
+
+.classFooter1 {
+
+  inline-size: -webkit-fill-available;
+  z-index: -1;
+}
+
+.classFooter2 {
+  position: absolute;
+   z-index: 1;
+} 

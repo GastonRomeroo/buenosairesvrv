@@ -8,24 +8,24 @@ import ItemDetailContainer from './components/ItemDetailContainer';
 import BodyApp1 from './components/BodyApp1';
 import ItemListContainer from './components/ItemListContainer';
 import Error404 from "./components/Error404";
+import Gift from "./components/Gift"
 
 function App() {
   return (
-    <div className='container'>
-      < BrowserRouter>
+    < BrowserRouter>
+      <div className='container'>
         < Nav />
         < Carrousel />
-        < BodyApp1 />
         < Routes>
-          <Route path={"/"} element={<ItemListContainer />} />
+          <Route path={"/"} element={< BodyApp1 />}/>
           <Route path={"/category/:id"} element={<ItemListContainer />} />
           <Route path={"/item/:id"} element={<ItemDetailContainer />} />
           <Route path={"*"} element={<Error404 />} />;
         </Routes>
-        {/* <BodyApp /> */}
+        < Gift />
         < Footer />
-      </BrowserRouter>
-    </div>
+      </div>
+    </BrowserRouter>
 
   );
 }

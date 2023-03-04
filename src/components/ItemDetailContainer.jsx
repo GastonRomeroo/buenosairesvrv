@@ -8,12 +8,13 @@ const ItemDetailContainer = () => {
     const [item, setItem] = useState({});
     const [loading, setLoading] = useState(true);
     const { id } = useParams();
+    
 
 
     useEffect(() => {
         const promesa = new Promise((resolve) => {
             setTimeout(() => {
-                resolve(ResidencialJson.find(item => item.category === parseInt(id)));
+                resolve(ResidencialJson.find(item => item.id === id));
             }, 900)
         });
         promesa.then((data) => {
