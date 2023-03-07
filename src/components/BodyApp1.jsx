@@ -11,7 +11,7 @@ function BodyApp1() {
     <div className='div-inverter'>
         <h5> Un nuevo concepto </h5>
         <h2>Una nueva generación <br /> de equipos de aire</h2>
-        <p>Somos expetos en aire acondicionado. Por eso, desarrollamos <br /> una opción ieal para cada tipo de aplicación</p>
+        <p>Somos expetos en aire acondicionado. Por eso, desarrollamos <br /> una opción ideal para cada tipo de aplicación</p>
         <div className='ul-list'>
           <div className='ul-list-a'>
             <ul>
