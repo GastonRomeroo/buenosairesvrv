@@ -146,6 +146,10 @@
         "id": "6",
         "titulo": "Mini Chiller Inverter",
         "slogan": "Generador de agua caliente para climatizar tu hogar.",
+        "img": [
+            "/img/Residencial/id6.png",
+            "/img/Residencial/id06.png"
+        ],
         "detalle": [
             "¿Necesitás un sistema de climatización que no requiera gas natural?",
             "Mini Chiller Inverter Máxima eficiencia y cuidado del medio ambiente. Equipos sin emisión de gases contaminantes.",
@@ -197,10 +201,6 @@
                     ]
                 }
             ]
-        ],
-        "img": [
-            "/img/Residencial/id6.png",
-            "/img/Residencial/id06.png"
         ]
     },
     {
