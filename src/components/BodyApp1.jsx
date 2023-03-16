@@ -10,8 +10,8 @@ function BodyApp1() {
     </picture>
     <div className='div-inverter'>
         <h5> Un nuevo concepto </h5>
-        <h2>Una nueva generación <br /> de equipos de aire</h2>
-        <p>Somos expetos en aire acondicionado. Por eso, desarrollamos <br /> una opción ideal para cada tipo de aplicación</p>
+        <h2>Una nueva generación <br/>de equipos de aire</h2>
+        <p>Somos expetos en aire acondicionado.<br/> Por eso, desarrollamos  una opción ideal<br />para cada tipo de aplicación</p>
         <div className='ul-list'>
           <div className='ul-list-a'>
             <ul>
@@ -88,7 +88,7 @@ function BodyApp1() {
       <div className='div-vrv'>
         <h5> Menor consumo garantizado </h5>
         <h2>Sistemas VRV <br />para el hogar y la oficina</h2>
-        <p>Somos creadores de la tecnología VRV, la más eficiente del mercado. <br />Contamos con un modelo ideal para cada aplicación:</p>
+        <p>Somos creadores de la tecnología VRV,<br/>la más eficiente del mercado. <br />Contamos con un modelo ideal para cada aplicación:</p>
         <div className='ul-list'>
           <ul className='ul-list-a'>
             <li>
@@ -139,7 +139,7 @@ function BodyApp1() {
     <div className='div-eficiencia'>
         <h5> Departamento de servicios </h5>
         <h2>Estamos para ayudarte</h2>
-        <p>Brindamos servicios de soporte técnico a personal <br />especializado y usuarios finales</p>
+        <p>Brindamos servicios de soporte técnico a <br/> personal especializado y usuarios finales</p>
         <div className='ul-list'>
           <div className='ul-list-a'>
             <ul>
