@@ -29,3 +29,51 @@ const ItemDetail = ({ item }) => {
     )
 };
 export default ItemDetail;
+
+
+/*
+IDEA DE CHAT GPT
+
+import React, { useState, useEffect } from "react";
+
+function App() {
+  const [data, setData] = useState([]);
+
+  useEffect(() => {
+    const fetchData = async () => {
+      const response = await fetch("/ruta-al-archivo-json");
+      const jsonData = await response.json();
+      setData(jsonData);
+    };
+    fetchData();
+  }, []);
+
+  return (
+    <div>
+      <h1>{data.titulo}</h1>
+      <p>{data.slogan}</p>
+      <img src={data.img} alt="Imagen principal" />
+      {data.img1.map((img, index) => (
+        <img key={index} src={img.img} alt={`Imagen ${index}`} />
+      ))}
+      {data.detalle.map((detalle, index) => (
+        <div key={index}>
+          {detalle.detalle.map((item, index) => (
+            <div key={index}>
+              {item.name && <p>{item.name}</p>}
+              {item.img && <img src={item.img} alt={`Imagen ${index}`} />}
+              {item.catalogo && (
+                <a href={item.catalogo} target="_blank" rel="noreferrer">
+                  Catálogo
+                </a>
+              )}
+            </div>
+          ))}
+        </div>
+      ))}
+    </div>
+  );
+}
+
+export default App;
+*/
