@@ -11,7 +11,7 @@ function BodyApp1() {
     <div className='div-inverter'>
         <h5> Un nuevo concepto </h5>
         <h2>Una nueva generación <br/>de equipos de aire</h2>
-        <p>Somos expetos en aire acondicionado.<br/> Por eso, desarrollamos  una opción ideal<br />para cada tipo de aplicación</p>
+        <p>Somos expetos en aire acondicionado.<br/> Por eso, desarrollamos una opción ideal<br />para cada tipo de aplicación.</p>
         <div className='ul-list'>
           <div className='ul-list-a'>
             <ul>
@@ -139,7 +139,7 @@ function BodyApp1() {
     <div className='div-eficiencia'>
         <h5> Departamento de servicios </h5>
         <h2>Estamos para ayudarte</h2>
-        <p>Brindamos servicios de soporte técnico a <br/> personal especializado y usuarios finales</p>
+        <p>Brindamos servicios de soporte técnico a <br/> personal especializado y usuarios finales.</p>
         <div className='ul-list'>
           <div className='ul-list-a'>
             <ul>
@@ -164,7 +164,7 @@ function BodyApp1() {
                   </h5>
                 </li>
                   <h5>
-                    Errores decódigo.
+                    Errores de código.
                   </h5>
                 <li>
                   <h5>

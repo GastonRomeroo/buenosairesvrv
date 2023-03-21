@@ -15,7 +15,6 @@ const NavBar = () => {
                                 <span className="navbar-toggler-icon"></span>
                             </button>
                         </div>
-
                         <div className="collapse navbar-collapse">
                             <ul className="navbar-nav">
                                 <NavLink className="nav-item nav-link text-white" to={"/category/residencial"}>Residencial</NavLink>
@@ -26,8 +25,8 @@ const NavBar = () => {
                 </nav>
             </div>
         </div>
-
-    )
+)
 }
 
 export default NavBar
+                    
